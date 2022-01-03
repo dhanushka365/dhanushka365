@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming lanaguages such as keras , matlab , Angular , deeplearning and machine learning techniques.
 - 💞️ I’m looking to collaborate on image processing Application , machine learning , deep learning  and any kind of software developments.
 - 📫 How to reach me 
-      contact me -+94757766896 or send me an email to technohub10000@gmail.com / pasindudhanushka365@gmail.com / eduetor365@gmail.com /   feedbacks@eduetor.com
+      contact me -+94757766896 or send me an email to technohub10000@gmail.com / personel- pasindudhanushka365@gmail.com / eduetor365@gmail.com /   feedbacks@eduetor.com
       
 
 <!---
