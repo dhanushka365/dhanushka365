@@ -3,7 +3,7 @@
       
 Programmer | Content Creator | Learner
       
-?></h3>  
+</h3>  
 
 - 👋 Hi, I’m pasindu dhanushka uduwela
 - 👀 I’m interested in building android apps , web applications and desktop apllications
