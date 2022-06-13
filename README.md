@@ -5,7 +5,6 @@ Programmer | Content Creator | Learner
       
 </h3>  
 
-- 👋 Hi, I’m pasindu dhanushka uduwela
 - 👀 I’m interested in building android apps , web applications and desktop apllications
 - 🌱 I’m currently learning programming lanaguages such as keras , matlab , Angular , deeplearning and machine learning techniques.
 - 💞️ I’m looking to collaborate on image processing Application , machine learning , deep learning  and any kind of software developments.
