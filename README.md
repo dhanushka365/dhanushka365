@@ -1,7 +1,10 @@
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Pasindu Dhanushka Uduwela</h1>
 <h3 align="center">¯\_(ツ)_/¯
+      
 Programmer | Content Creator | Learner
-?></h3>     
+      
+?></h3>  
+
 - 👋 Hi, I’m pasindu dhanushka uduwela
 - 👀 I’m interested in building android apps , web applications and desktop apllications
 - 🌱 I’m currently learning programming lanaguages such as keras , matlab , Angular , deeplearning and machine learning techniques.
