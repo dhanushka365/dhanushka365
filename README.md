@@ -4,6 +4,7 @@
 Programmer | Content Creator | Learner
       
 </h3>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushka365&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushka365" /> </p>
 
 - 👀 I’m interested in building android apps , web applications and desktop apllications
 - 🌱 I’m currently learning programming lanaguages such as keras , matlab , Angular , deeplearning and machine learning techniques.
