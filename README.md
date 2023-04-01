@@ -28,8 +28,9 @@ Programmer | Content Creator | Learner
       
 [![Pasindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanushka365&show_icons=true&theme=radical&custom_title=Pasindu's%20github%20activity%20graph)
 
-[![Pasindu's github activity graph](https://activity-graph.herokuapp.com/graph?username=dhanushka365&theme=react-dark&custom_title=Pasindu's%20Github%20Stats)](https://github.com/dhanushka365/github-readme-activity-graph)
+
 <!---
 dhanushka365/dhanushka365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+      [![Pasindu's github activity graph](https://activity-graph.herokuapp.com/graph?username=dhanushka365&theme=react-dark&custom_title=Pasindu's%20Github%20Stats)](https://github.com/dhanushka365/github-readme-activity-graph)
 --->
