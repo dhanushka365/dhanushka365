@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/dhanushka365/dhanushka365/blob/main/Wave.gif" height="55px" width="55px">, I'm Pasindu Dhanushka Uduwela</h1>
 <h3 align="center">¯\_(ツ)_/¯
       
-Programmer | Content Creator | Learner
+Programmer| Learner
       
 </h3>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushka365&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushka365" /> </p>
