@@ -10,7 +10,15 @@ Programmer| Learner
 - 🌱 I’m currently learning programming lanaguages such as keras , matlab , Angular , deeplearning and machine learning techniques.
 - 💞️ I’m looking to collaborate on image processing Application , machine learning , deep learning , specially microservice based systems and any kind of software developments.
 - 📫 How to reach me personel- pasindudhanushka365@gmail.com 
- 
+---
+ ### 🚀 Work Experience
+
+* **Software Engineer** | **Huex GmbH**
+* **Software Engineer** | **Drifting Desk LLC**
+* **Associate Software Engineer** | **ICP Techno LLC** (Ethul Kotte, Sri Lanka)
+* **Intern Software Engineer** | **Mitra Innovation** (Moratuwa, Sri Lanka)
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pasindu-uduwela-24a34b159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu-uduwela-24a34b159" height="30" width="40" /></a>      
