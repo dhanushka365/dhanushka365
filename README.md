@@ -34,13 +34,16 @@ Programmer| Learner
 </a> <a href="https://www.aws.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS width="40" height="40"/> </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushka365&theme=radical&layout=compact&langs_count=19&show_icons=true)](https://github.com/dhanushka365/github-readme-stats)  
-      
-[![Pasindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanushka365&show_icons=true&theme=radical&custom_title=Pasindu's%20github%20activity%20graph)
+### 📊 My GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushka365&theme=radical&layout=compact&langs_count=10&show_icons=true" alt="Top Langs" />
+</p>
 
-<!---
-dhanushka365/dhanushka365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-      [![Pasindu's github activity graph](https://activity-graph.herokuapp.com/graph?username=dhanushka365&theme=react-dark&custom_title=Pasindu's%20Github%20Stats)](https://github.com/dhanushka365/github-readme-activity-graph)
---->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dhanushka365&show_icons=true&theme=radical&custom_title=My%20Github%20Stats" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushka365&theme=radical" alt="GitHub Streak" />
+</p>
