@@ -12,13 +12,6 @@ Programmer| Learner
 - 💞️ I’m looking to collaborate on **Image Processing**, **Microservice-based systems**, and AI-driven software development.
 - 📫 Reach me at: [pasindudhanushka365@gmail.com](mailto:pasindudhanushka365@gmail.com)
 ---
- ### 🚀 Work Experience
- 
-* **Software Engineer** | **Mordern Innovation Pty Ltd** *(Current)*
-* **Former Software Engineer** | **Huex GmbH** *(Remote)*
-* **Former Software Engineer** | **Drifting Desk LLC** *(Remote)*
-* **Former Associate Software Engineer** | **ICP Techno LLC** (Ethul Kotte, Sri Lanka)
-* **Former Intern Software Engineer** | **Mitra Innovation** (Moratuwa, Sri Lanka)
 
 ---
 <h3 align="left">Connect with me:</h3>
