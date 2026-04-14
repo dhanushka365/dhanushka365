@@ -12,8 +12,6 @@ Programmer| Learner
 - 💞️ I’m looking to collaborate on **Image Processing**, **Microservice-based systems**, and AI-driven software development.
 - 📫 Reach me at: [pasindudhanushka365@gmail.com](mailto:pasindudhanushka365@gmail.com)
 ---
-
----
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pasindu-uduwela-24a34b159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu-uduwela-24a34b159" height="30" width="40" /></a>      
